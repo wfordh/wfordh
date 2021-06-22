@@ -6,6 +6,7 @@ I'm Ford Higgins, a data enthusiast who loves sports, the environment, and putti
 ### What I'm Doing
 - 🔭 I’m currently working on ...
   - `pybaseball`: Contributing to an open source Python library for baseball.
+  - [Her Hoop Stats](https://herhoopstats.com/): Contributing on the back end for developing new statistics and features for the website.
   - D3 Hoops: Learning JavaScript through a full stack project to deliver advanced stats for Division III men's basketball. Name is a work in progress.
   - Ottoneu Auctions: An Ottoneu tool for gathering data on active auctions for my leagues, built with Python and GitHub Actions and Pages.
 - 🌱 I’m currently learning ...
