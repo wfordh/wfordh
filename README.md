@@ -5,21 +5,24 @@ I'm Ford Higgins, a data enthusiast who loves sports, the environment, and putti
 
 ### What I'm Doing
 - 🔭 I’m currently working on ...
-  - `pybaseball`: Contributing to an open source Python library for baseball.
+  - [Ottoneu Basketball Values](https://github.com/wfordh/ottobasket_values)
+  - Automating my [DRE app](https://fordhiggins.shinyapps.io/dre_app/) to be updated daily
   - [Her Hoop Stats](https://herhoopstats.com/): Contributing on the back end for developing new statistics and features for the website.
   - D3 Hoops: Learning JavaScript through a full stack project to deliver advanced stats for Division III men's basketball. Name is a work in progress.
-  - Ottoneu Auctions: An Ottoneu tool for gathering data on active auctions for my leagues, built with Python and GitHub Actions and Pages.
 - 🌱 I’m currently learning ...
   - JavaScript with a `node-pg` and `Gatsby` stack.
   - What's missing from a CS degree with MIT's [missing semester](https://missing.csail.mit.edu/) class.
+- I have worked on ...
+  - `pybaseball`: Contributing to an open source Python library for baseball.
+  - Ottoneu Auctions: An Ottoneu tool for gathering data on active auctions for my leagues, built with Python and GitHub Actions and Pages.
 - 📫 How to reach me: [twitter](https://www.twitter.com/wfordh)
 - 😄 Pronouns: he / him / his
 
 ### Languages
-- Python, R, PostgreSQL, Redshift, MySQL, JavaScript, zsh, Git
+- Python, R, PostgreSQL, Redshift, MySQL, JavaScript, zsh, git
 
 ### Tools
-- Periscope, Jupyter Notebooks, GitHub, Airflow, vim, Google APIs
+- Looker, Snowflake, Periscope, Jupyter Notebooks, GitHub, Airflow, vim, Google APIs
 
 <!--
 **wfordh/wfordh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
