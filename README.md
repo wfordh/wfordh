@@ -8,7 +8,7 @@ I'm Ford Higgins, a data enthusiast who loves sports, the environment, and putti
   - [Ottoneu Basketball Values](https://github.com/wfordh/ottobasket_values)
   - Automating my [DRE app](https://fordhiggins.shinyapps.io/dre_app/) to be updated daily
   - [Her Hoop Stats](https://herhoopstats.com/): Contributing on the back end for developing new statistics and features for the website.
-  - D3 Hoops: Learning JavaScript through a full stack project to deliver advanced stats for Division III men's basketball. Name is a work in progress.
+  - Turning the projections folder in my [fantasy football projections]([url](https://github.com/wfordh/fantasy_football_projections)) repo into a package
 - 🌱 I’m currently learning ...
   - JavaScript with a `node-pg` and `Gatsby` stack.
   - What's missing from a CS degree with MIT's [missing semester](https://missing.csail.mit.edu/) class.
