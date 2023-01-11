@@ -8,8 +8,9 @@ I'm Ford Higgins, a data enthusiast who loves sports, the environment, and putti
   - [Ottoneu Basketball Values](https://github.com/wfordh/ottobasket_values)
   - Automating my [DRE app](https://fordhiggins.shinyapps.io/dre_app/) to be updated daily
   - [Her Hoop Stats](https://herhoopstats.com/): Contributing on the back end for developing new statistics and features for the website.
-  - Turning the projections folder in my [fantasy football projections]([url](https://github.com/wfordh/fantasy_football_projections)) repo into a package
+  - Updating my [fantasy football tools]([url](https://github.com/wfordh/fantasy_football_projections)).
 - 🌱 I’m currently learning ...
+  - Advanced Streamlit!
   - JavaScript with a `node-pg` and `Gatsby` stack.
   - What's missing from a CS degree with MIT's [missing semester](https://missing.csail.mit.edu/) class.
 - I have worked on ...
@@ -19,7 +20,7 @@ I'm Ford Higgins, a data enthusiast who loves sports, the environment, and putti
 - 😄 Pronouns: he / him / his
 
 ### Languages
-- Python, R, PostgreSQL, Redshift, MySQL, JavaScript, zsh, git
+- Python, R, PostgreSQL, Redshift, MySQL, JavaScript, zsh, git, dbt, LookML
 
 ### Tools
 - Looker, Snowflake, Periscope, Jupyter Notebooks, GitHub, Airflow, vim, Google APIs
