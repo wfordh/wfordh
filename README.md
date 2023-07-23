@@ -6,7 +6,7 @@ I'm Ford Higgins, a data enthusiast who loves sports, the environment, and putti
 ### What I'm Doing
 - 🔭 I’m currently working on ...
   - [Ottoneu Basketball Values](https://github.com/wfordh/ottobasket_values)
-  - Automating my [DRE app](https://fordhiggins.shinyapps.io/dre_app/) to be updated daily
+  - Automating my [DRE app](https://github.com/wfordh/dre_app) to be updated daily
   - [Her Hoop Stats](https://herhoopstats.com/): Contributing on the back end for developing new statistics and features for the website.
   - Updating my [fantasy football tools]([url](https://github.com/wfordh/fantasy_football_projections)).
 - 🌱 I’m currently learning ...
