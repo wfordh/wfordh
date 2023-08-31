@@ -5,16 +5,17 @@ I'm Ford Higgins, a data enthusiast who loves sports, the environment, and putti
 
 ### What I'm Doing
 - 🔭 I’m currently working on ...
-  - [Ottoneu Basketball Values](https://github.com/wfordh/ottobasket_values)
-  - Automating my [DRE app](https://github.com/wfordh/dre_app) to be updated daily
-  - [Her Hoop Stats](https://herhoopstats.com/): Contributing on the back end for developing new statistics and features for the website.
-  - Updating my [fantasy football tools]([url](https://github.com/wfordh/fantasy_football_projections)).
+  - [Ottoneu Basketball Values](https://github.com/wfordh/ottobasket_values) and associated analyses.
+  - Automating my [DRE app](https://github.com/wfordh/dre_app) to be in Python and on Streamlit instead of R / Shiny and updated daily.
+  - Updating the [Sleeper API Python package](https://github.com/dtsong/sleeper-api-wrapper) to be ready for the 2023-24 NFL season.
 - 🌱 I’m currently learning ...
   - Advanced Streamlit!
   - JavaScript with a `node-pg` and `Gatsby` stack.
   - What's missing from a CS degree with MIT's [missing semester](https://missing.csail.mit.edu/) class.
 - I have worked on ...
-  - `pybaseball`: Contributing to an open source Python library for baseball.
+  - [pybaseball](https://github.com/jldbc/pybaseball): Contributing to an open source Python library for baseball.
+  - [Her Hoop Stats](https://herhoopstats.com/): Contributing on the back end for developing new statistics and features for the website.
+  - My suite of [fantasy football tools](https://github.com/wfordh/fantasy_football_projections).
   - Ottoneu Auctions: An Ottoneu tool for gathering data on active auctions for my leagues, built with Python and GitHub Actions and Pages.
 - 📫 How to reach me: [twitter](https://www.twitter.com/wfordh)
 - 😄 Pronouns: he / him / his
