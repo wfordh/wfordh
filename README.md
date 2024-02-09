@@ -7,10 +7,10 @@ I'm Ford Higgins, a data enthusiast who loves sports, the environment, and putti
 - 🔭 I’m currently working on ...
   - [Ottoneu Basketball Values](https://github.com/wfordh/ottobasket_values) and associated analyses.
   - Automating my [DRE app](https://github.com/wfordh/dre_app) to be in Python and on Streamlit instead of R / Shiny and updated daily.
-  - Updating the [Sleeper API Python package](https://github.com/dtsong/sleeper-api-wrapper) to be ready for the 2023-24 NFL season.
+  - Updating the [Sleeper API Python package](https://github.com/dtsong/sleeper-api-wrapper) to use more best practices.
 - 🌱 I’m currently learning ...
   - Advanced Streamlit!
-  - JavaScript with a `node-pg` and `Gatsby` stack.
+  - FastAPI and web development
   - What's missing from a CS degree with MIT's [missing semester](https://missing.csail.mit.edu/) class.
 - I have worked on ...
   - [pybaseball](https://github.com/jldbc/pybaseball): Contributing to an open source Python library for baseball.
@@ -21,7 +21,7 @@ I'm Ford Higgins, a data enthusiast who loves sports, the environment, and putti
 - 😄 Pronouns: he / him / his
 
 ### Languages
-- Python, R, PostgreSQL, Redshift, MySQL, JavaScript, zsh, git, dbt, LookML
+- Python, R, SQL (PostgreSQL, Redshift, MySQL, Snowflake), zsh, git, dbt, LookML
 
 ### Tools
 - Looker, Snowflake, Periscope, Jupyter Notebooks, GitHub, Airflow, vim, Google APIs
