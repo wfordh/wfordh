@@ -6,6 +6,7 @@ I'm Ford Higgins, a data enthusiast who loves sports, the environment, and putti
 ### What I'm Doing
 - 🔭 I’m currently working on ...
   - [Ottoneu Basketball Values](https://github.com/wfordh/ottobasket_values) and associated analyses.
+  - [NBA Trades Constructor](https://nbatradesconstructor.streamlit.app/) - an app for generating all possible 2 team NBA trades for a given input of players. Currently in proof-of-concept stage.
   - Automating my [DRE app](https://github.com/wfordh/dre_app) to be in Python and on Streamlit instead of R / Shiny and updated daily.
   - Updating the [Sleeper API Python package](https://github.com/dtsong/sleeper-api-wrapper) to use more best practices.
 - 🌱 I’m currently learning ...
